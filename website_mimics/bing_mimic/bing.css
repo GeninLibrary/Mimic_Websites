@@ -1,0 +1,52 @@
+#container {
+    background-image: url("humpback.jpg");
+    height: 1000px;
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    border: 0;
+    color: #fff;
+    font-family: 13px Arial,Helvetica,Sans-Serif;
+}
+
+ul {
+    display: inline-block;
+}
+li {
+    display: inline-block;
+}
+
+.general_search {
+    margin-right: 500px;
+}
+
+.general_search>li {
+    margin: 0px 18px;
+}
+
+.user_tools>li {
+    margin: 0px 5px 5px 5px;
+}
+
+
+#main_search {
+    margin : 50px 50px;
+}
+
+img, h1, button {
+    display: inline-block;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
+
+
+
+
+
+
+
